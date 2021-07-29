@@ -10,7 +10,7 @@ I did this project for of my Formal Languages and Automata Theory Course.
 
 
 
-# Example:  
+# Example  
 
 ```
 Please input the transitions:
