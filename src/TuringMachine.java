@@ -21,7 +21,7 @@ public class TuringMachine {
     }
 
     public static void getInput(Scanner scanner) {
-        System.out.println("Please input the content of input-tape states:");
+        System.out.println("Please input the content of input-tape:");
         tape.append(scanner.nextLine());
         status = new Status("q0", tape.charAt(0));
         head = 0;
