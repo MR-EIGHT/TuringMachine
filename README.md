@@ -26,7 +26,7 @@ end
 Please input final states:
 q3
 
-Please input the content of input-tape states:
+Please input the content of input-tape:
 111
 
 Tape:
