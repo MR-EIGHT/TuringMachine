@@ -9,6 +9,34 @@ I did this project for of my Formal Languages and Automata Theory Course.
 ![Turing Machine](model.png)
 
 
+
+# Example:  
+
+```
+Please input the transitions:
+q0,1 = q0,$,R
+q0,□ = q1,□,L
+q1,1 = q1,1,L
+q1,$ = q2,1,R
+q2,1 = q2,1,R
+q2,□ = q1,1,L
+q1,□ = q3,□,R
+end
+
+Please input final states:
+q3
+
+Please input the content of input-tape states:
+111
+
+Tape:
+□111111
+
+Accepted!
+Machine halted in a final state!
+```
+
+
 # Usage
 1- Run the program.    
 2- Input the transitions in the following format:  
