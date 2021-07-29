@@ -1,6 +1,6 @@
-# TurinMachine
+# TuringMachine
 
-This is a very simple implementation of the Turing Machine.Executing the given commands, it helps testing Turing Machine's transition-functions and useful for educational purposes.  
+This is a very simple implementation of the Turing Machine. Executing the given commands, it helps testing Turing Machine's transition-functions and is useful for educational purposes.  
 
 ## Model of the implemented machine
 ![Turing Machine](model.png)
