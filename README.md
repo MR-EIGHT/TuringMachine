@@ -52,6 +52,6 @@ JRE and JDK.
 MR-EIGHT
 
 ## Acknowledgment
-- Thanks to professor Mr. Bagherzadeh: [Jamshid Bagherzadeh | LinkedIn](https://www.linkedin.com/in/jamshid-bagherzadeh-88644a51/)
+- Thanks to my professor Mr.Bagherzadeh: [Jamshid Bagherzadeh | LinkedIn](https://www.linkedin.com/in/jamshid-bagherzadeh-88644a51/)
 
 - Thanks to Peter Linz and his wonderful book: An Introduction to Formal Languages and Automata  
