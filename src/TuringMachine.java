@@ -34,7 +34,7 @@ public class TuringMachine {
 
     public static void printOutput() {
         System.out.println("Tape:");
-        System.out.println(tape.toString());
+        System.out.println(tape.toString() + "\n");
 
         if (finalStates.contains(status.getState()))
             System.out.println("Accepted!\nMachine halted in a final state!");
@@ -51,12 +51,12 @@ public class TuringMachine {
 
             if (com.getDirection() == 'R' || com.getDirection() == 'r') {
                 head += 1;
-                if (tape.length() <= head) tape.append('#');
+                if (tape.length() <= head) tape.append('□');
 
             } else {
                 head -= 1;
                 if (head < 0) {
-                    tape.insert(0, '#');
+                    tape.insert(0, '□');
                     head = 0;
                 }
 
